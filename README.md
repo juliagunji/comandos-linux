@@ -1,6 +1,5 @@
 # Comandos Linux
 
-**Comandos**
 
 > mkdir,
 > touch,
