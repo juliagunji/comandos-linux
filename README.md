@@ -20,7 +20,7 @@
 > tac,
 > cp,
 > mv,
-> rmcle,
+> rmcle
 <img width="631" height="98" alt="image" src="https://github.com/user-attachments/assets/8c54b4f9-8c1f-4a1f-b2cb-720e24ac68bf" />
 
 > whoami,
